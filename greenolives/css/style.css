@@ -666,7 +666,7 @@ h6 {
           align-items: center;
 }
 
-.whatwedo__image img {
+.whatwedo__image picture {
   width: 100%;
   max-width: 54.8125rem;
   grid-row: 1/-1;
